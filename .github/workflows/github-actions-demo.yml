@@ -1,0 +1,2 @@
+name: "Newman Tests"
+on: [push, pull_request]
